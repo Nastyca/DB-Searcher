@@ -7,7 +7,7 @@ from colorama import Fore
 
 os.system("cls")
 
-dossiers = ['Le chemin jusqu'à votre dossier ICI / HERE']
+dossiers = ['Le chemin jusquà votre dossier ICI / HERE']
 
 recherche_database = input(f"{Fore.LIGHTMAGENTA_EX}Entrez votre recherche -->{Fore.RESET} ")
 print(f"")
